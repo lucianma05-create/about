@@ -36,7 +36,7 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 
 [Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](https://github.com/lucianma05-create/Neuro-Sym-Supporter)
 
-**Minghui Ma**, Bin Guo, Mengqi Chen, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang
+**Minghui Ma**, Bin Guo, Mengqi Chen, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang <br> We are the first to introduce symbolic reasoning into emotional support conversations (ESC) and propose a thoughtful emotional support agent, Neuro-Sym Supporter.
 
 <!-- **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -44,7 +44,7 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 </div>
 
 <!-- - [**code**](https://github.com/lucianma05-create/Neuro-Sym-Supporter) -->
-- We are the first to introduce symbolic reasoning into emotional support conversations (ESC) and propose athoughtful emotional support agent, Neuro-Sym Supporter.
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,6 +57,12 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 # 📩 Contact Me
 
 Welcome to contact me if you share similar academic interests. I am looking forward to in-depth discussions and potential collaborations with you.
+
+- WeChat: Rocket_0001
+
+- Email: 1851473104[at]qq.com
+
+- Bilibili: [https://space.bilibili.com/284248345?spm_id_from=333.1007.0.0](https://space.bilibili.com/284248345?spm_id_from=333.1007.0.0)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
