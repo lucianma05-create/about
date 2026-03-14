@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=SCHOLAR_ID&user=EchdyZEAAAAJ"
-  email            : "1851473104@qq.com"
+  email            :  # "1851473104@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lucianma05-create"
+  github           : "lucianma05-create"
   google_plus      :
   keybase          :
   instagram        :
