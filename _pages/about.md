@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📊 About Me
+
 I am currently a first-year Master’s student in CS at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), Xi’an, China, supervised by [Prof. Bin Guo](http://guob.org/index_cn.html).
 
 Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2021.
@@ -26,10 +28,14 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Proceedings of the ACM Web Conference 2026 ( Conference in CCF Rank A) 
+<h2 id="news">🔥 News</h2>
+<ul>
 
-# 📝 Publications 
+<li><em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted by Proceedings of the ACM Web Conference 2026 (Conference in CCF Rank A)</li>
+
+</ul>
+
+<h2 id="publications">📝 Publications</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,12 +56,12 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+<h2 id="educations">📖 Educations</h2>
 - *2025.09 - (now)*, Master Student, School of Computer Science, Northwestern Polytechnical University
 - *2021.09 - 2025.06*, Bachelor of Engineering, Major in Computer Science and Technology, Northwestern Polytechnical University 
 
-# 📩 Contact Me
 
+<h2 id="contact-me">📩 Contact Me</h2>
 Welcome to contact me if you share similar academic interests. I am looking forward to in-depth discussions and potential collaborations with you.
 
 - WeChat: Rocket_0001
