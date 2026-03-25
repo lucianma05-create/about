@@ -19,7 +19,7 @@ redirect_from:
 
 # 📊 About Me
 
-I am currently a first-year Master’s student in CS at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), Xi’an, China, supervised by [Prof. Bin Guo](http://guob.org/index_cn.html).
+I am currently a first-year Master’s student in CS at [Northwestern Polytechnical University (NWPU，西北工业大学)](https://www.nwpu.edu.cn/), Xi’an, China, supervised by [Prof. Bin Guo](http://guob.org/index_cn.html).
 
 Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2021.
 
