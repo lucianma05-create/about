@@ -40,7 +40,7 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](https://github.com/lucianma05-create/Neuro-Sym-Supporter)
+[Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](https://dl.acm.org/doi/abs/10.1145/3774904.3792335)
 
 **Minghui Ma**, Bin Guo, Mengqi Chen, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang <br> We are the first to introduce symbolic reasoning into emotional support conversations (ESC) and propose a thoughtful emotional support agent, Neuro-Sym Supporter.
 
