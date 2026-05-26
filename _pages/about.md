@@ -42,6 +42,10 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 </div>
 </div>
 
+<h2 id="projects">💻 Projects</h2>
+
+- [**Awesome Social AI Agent**](https://github.com/lucianma05-create/Social-AI-Group): A curated collection of paper summaries for Social AI research, covering topics such as Dialogue World MModels, Agent Memory, Empathetic Dialogue Systems, Persuasive Dialogue Systems, Recommender Systems...
+
 <h2 id="educations">📖 Education</h2>
 
 - *2025.09 - (now)*, Master Student, School of Computer Science, Northwestern Polytechnical University
