@@ -20,6 +20,7 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 
 <h2 id="news">🔥 News</h2>
 
+- *2026.06*: 🎉🎉 My project, **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**, was funded by the **NWPU Graduate Innovation Fund** as one of only three selected projects in the School of Computer Science.
 - *2026.01*: 🎉🎉 One paper was accepted by Proceedings of the ACM Web Conference 2026 (CCF Rank A conference)
 
 <h2 id="publications">📝 Publications</h2>
@@ -44,6 +45,7 @@ My research interests include **Persuasive Dialogue Systems**, **Large Language 
 
 <h2 id="projects">💻 Projects</h2>
 
+- **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**: Funded by the **NWPU Graduate Innovation Fund**, this project models users' cognitive processes in persuasive dialogues, develops evaluation metrics centered on users' cognitive-state transitions, and uses these metrics to optimize the LLMs that power persuasive agents.
 - [**Awesome Social AI Agent**](https://github.com/lucianma05-create/Social-AI-Group): A curated collection of paper summaries for Social AI research, covering topics such as Dialogue World MModels, Agent Memory, Empathetic Dialogue Systems, Persuasive Dialogue Systems, Recommender Systems...
 
 <h2 id="educations">📖 Education</h2>
