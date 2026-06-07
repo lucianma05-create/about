@@ -16,7 +16,7 @@ I am currently a first-year Master’s student in CS at [Northwestern Polytechni
 
 Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2025.
 
-My research interests include **Persuasive Dialogue Systems**, **Large Language Models (LLMs)**, and **World Models**. I am particularly interested in building Artificial General Intelligence using World Models and Reinforcement Learning.
+My research interests include [**Social Influence Dialogue Systems**](https://www.bilibili.com/video/BV1YAVS6hEaw/?spm_id_from=333.337.search-card.all.click), **Large Language Models (LLMs)** and **World Models**. I am particularly interested in building Artificial General Intelligence using World Models and Reinforcement Learning.
 
 <h2 id="news">🔥 News</h2>
 
