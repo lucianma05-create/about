@@ -20,8 +20,8 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="news">🔥 News</h2>
 
-- *2026.06*: 🎉🎉 One paper, **Cognitive World Models for Process-Level Social Influence Evaluation**, was released on arXiv.
 - *2026.06*: 🎉🎉 My project, **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**, was funded by the **NWPU Graduate Innovation Fund** as one of only three selected projects in the School of Computer Science.
+
 - *2026.01*: 🎉🎉 One paper was accepted by Proceedings of the ACM Web Conference 2026 (CCF Rank A conference)
 
 <h2 id="publications">📝 Publications</h2>
