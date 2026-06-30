@@ -20,10 +20,20 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="news">🔥 News</h2>
 
+- *2026.06*: 🎉🎉 One paper, **Cognitive World Models for Process-Level Social Influence Evaluation**, was released on arXiv.
 - *2026.06*: 🎉🎉 My project, **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**, was funded by the **NWPU Graduate Innovation Fund** as one of only three selected projects in the School of Computer Science.
 - *2026.01*: 🎉🎉 One paper was accepted by Proceedings of the ACM Web Conference 2026 (CCF Rank A conference)
 
 <h2 id="publications">📝 Publications</h2>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/CWM.png' alt="CogWM framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cognitive World Models for Process-Level Social Influence Evaluation](https://arxiv.org/abs/2606.29495)
+
+**Minghui Ma**, Bin Guo, Han Wang, Mengqi Chen, Jingqi Liu, Yan Liu, Zhiwen Yu <br> We propose CogWM, an LLM-based user model that tracks users' cognitive states (beliefs, desires, intentions, emotions) across dialogue turns for evaluating social influence at turn-level, trajectory-level, and task-level granularity.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/TTBYS.png' alt="TTBYS framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
