@@ -55,6 +55,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="projects">💻 Projects</h2>
 
+- [**Cognitive World Models**](https://github.com/lucianma05-create/CogWM): An LLM-based user world model that tracks users' internal cognitive states — Desire, Belief, Intention, and Emotion (DBI/E) — across multi-turn social influence dialogues.
 - **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**: Funded by the **NWPU Graduate Innovation Fund**, this project models users' cognitive processes in persuasive dialogues, develops evaluation metrics centered on users' cognitive-state transitions, and uses these metrics to optimize the LLMs that power persuasive agents.
 - [**Awesome Social AI Agent**](https://github.com/lucianma05-create/Social-AI-Group): A curated collection of paper summaries for Social AI research, covering topics such as Dialogue World Models, Agent Memory, Empathetic Dialogue Systems, Persuasive Dialogue Systems, Recommender Systems...
 
