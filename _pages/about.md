@@ -62,7 +62,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 <h2 id="educations">📖 Education</h2>
 
 - *2025.09 - (now)*, Master Student, School of Computer Science, Northwestern Polytechnical University
-- *2021.09 - 2025.06*, Bachelor of Engineering, Major in Computer Science and Technology, Northwestern Polytechnical University
+- *2021.09 - 2025.06*, Bachelor of Engineering, Honors College, Northwestern Polytechnical University
 
 <h2 id="contact-me">📩 Contact Me</h2>
 
