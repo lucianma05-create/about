@@ -26,12 +26,12 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="publications">📝 Publications</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/CWM.png' alt="CogWM framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/CogWM.png' alt="CogWM framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cognitive World Models for Process-Level Social Influence Evaluation](https://arxiv.org/abs/2606.29495)
+[Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](https://arxiv.org/abs/2606.29495)
 
-**Minghui Ma**, Bin Guo, Han Wang, Mengqi Chen, Jingqi Liu, Yan Liu, Zhiwen Yu <br> We propose CogWM, an LLM-based user model that tracks users' cognitive states (beliefs, desires, intentions, emotions) across dialogue turns for evaluating social influence at turn-level, trajectory-level, and task-level granularity.
+**Minghui Ma**, Bin Guo, Hao Wang, Han Wang, Mengqi Chen, Jingqi Liu, Yan Liu, Zhiwen Yu <br> We propose CogWM, an LLM-based user model that tracks users' cognitive states (beliefs, desires, intentions, emotions) across dialogue turns for evaluating social influence at turn-level, trajectory-level, and task-level granularity.
 </div>
 </div>
 
