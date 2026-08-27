@@ -14,7 +14,7 @@ redirect_from:
 
 I am currently a second-year Master’s student in CS at [Northwestern Polytechnical University (NWPU，西北工业大学)](https://www.nwpu.edu.cn/), Xi’an, China, supervised by [Prof. Bin Guo](http://guob.org/index_cn.html).
 
-Prior to this, I received my B.E. degree in CS from Northwestern Polytechnical University in 2025.
+Prior to this, I received my B.E. degree in CS from NWPU in 2025.
 
 My research interests include [**Social Influence Dialogue Systems**](https://www.bilibili.com/video/BV1YAVS6hEaw/?spm_id_from=333.337.search-card.all.click), **Large Language Models (LLMs)** and **World Models**. I am particularly interested in building Artificial General Intelligence using World Models and Reinforcement Learning.
 
@@ -63,8 +63,8 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="educations">📖 Education</h2>
 
-- *2025.09 - (now)*, Master Student, School of Computer Science, Northwestern Polytechnical University
-- *2021.09 - 2025.06*, Bachelor of Engineering, Honors College, Northwestern Polytechnical University
+- *2025.09 - Present*, M.E. in CS, School of Computer Science, Northwestern Polytechnical University
+- *2021.09 - 2025.06*, B.E. in CS, Honors College, Northwestern Polytechnical University
 
 <h2 id="contact-me">📩 Contact Me</h2>
 
