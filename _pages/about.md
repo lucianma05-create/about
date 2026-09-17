@@ -57,10 +57,9 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="talks">🎤 Talks</h2>
 
-- *2025.02*: **[Reinforcement Learning in DeepSeek: How Did We Make LLMs Smarter?](https://www.bilibili.com/video/BV1Ff9wYSEQE/?spm_id_from=333.1387.upload.video_card.click&vd_source=22173a6fa342ecf648e799cd933213c5)**, NWPU AI Open Course (西北工业大学AI全校公开课), Xi'an, China.
-
 - *2026.05*: **[Social Influence Dialogue Based on Theory of Mind](https://www.bilibili.com/video/BV1YAVS6hEaw/?vd_source=22173a6fa342ecf648e799cd933213c5)**,  Tencent Qingyun Tech Salon (腾讯青云技术沙龙), Xi'an, China.
 
+- *2025.02*: **[Reinforcement Learning in DeepSeek: How Did We Make LLMs Smarter?](https://www.bilibili.com/video/BV1Ff9wYSEQE/?spm_id_from=333.1387.upload.video_card.click&vd_source=22173a6fa342ecf648e799cd933213c5)**, NWPU AI Open Course (西北工业大学AI全校公开课), Xi'an, China.
 
 
 <h2 id="projects">💻 Projects</h2>
