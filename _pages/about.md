@@ -33,7 +33,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 [Proactive Dialogue Policy Optimization via Cognitive-State Transition](https://arxiv.org/abs/2609.34948)
 
-**Minghui Ma**, Mengqi Chen, Bin Guo, Jingqi Liu <br> We jointly design a Cognitive User Simulator (Cog-Sim) and CSTPO, a cognitive-state transition-driven policy optimization framework with hierarchical strategy-utterance actions and sparse complete-branch sampling; CSTPO improves Qwen3-14B's performance to a level comparable to that of GPT-5.5-based planning methods.
+**Minghui Ma**, Mengqi Chen, Bin Guo, Jingqi Liu <br> We jointly design a Cognitive User Simulator (Cog-Sim) and CSTPO, a cognitive-state transition-driven policy optimization framework with hierarchical strategy-utterance actions and sparse complete-branch sampling.
 </div>
 </div>
 
