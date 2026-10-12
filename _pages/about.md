@@ -12,7 +12,7 @@ redirect_from:
 
 # 📊 About Me
 
-I am currently a second-year Master’s student in CS at [Northwestern Polytechnical University (NWPU，西北工业大学)](https://www.nwpu.edu.cn/), Xi’an, China, supervised by [Prof. Bin Guo](http://guob.org/index_cn.html).
+I am currently a second-year Master’s student in CS at **[Northwestern Polytechnical University (NWPU，西北工业大学)](https://www.nwpu.edu.cn/)**, Xi’an, China, supervised by **[Prof. Bin Guo](http://guob.org/index_cn.html)**.
 
 Prior to this, I received my B.E. degree in CS from NWPU in 2025.
 
@@ -20,13 +20,13 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="news">🔥 News</h2>
 
-- *2026.10*: 🎉🎉 The textbook **[《智能计算系统导论》(Introduction to Intelligent Computing Systems)](https://www.cmpedu.com/books/book/5611478.htm)**, led by Prof. Bin Guo, was published by China Machine Press — I contributed to Section 2.3.
+- *2026.10*: 🎉🎉 The textbook **[Introduction to Intelligent Computing Systems](https://www.cmpedu.com/books/book/5611478.htm)**, led by Prof. Bin Guo, was published by China Machine Press — I contributed to Section 2.3 (Large Model Systems).
 
 - *2026.08*: 🎉🎉 We founded **[Upstra](https://upstra.tech)**, an AI product team dedicated to building innovative AI-powered applications.
 
 - *2026.05*: 🎉🎉 My project, **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**, was funded by the **NWPU Graduate Innovation Fund** as one of only three selected projects in the School of Computer Science.
 
-- *2026.01*: 🎉🎉 One paper was accepted by Proceedings of the ACM Web Conference 2026 (CCF Rank A conference).
+- *2026.01*: 🎉🎉 **[Neuro-Sym Supporter](https://dl.acm.org/doi/abs/10.1145/3774904.3792335)** was accepted by Proceedings of the ACM Web Conference 2026 (CCF Rank A conference).
 
 <h2 id="publications">📝 Publications</h2>
 
