@@ -20,6 +20,8 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="news">🔥 News</h2>
 
+- *2026.10*: 🎉🎉 The textbook **[《智能计算系统导论》(Introduction to Intelligent Computing Systems)](https://www.cmpedu.com/books/book/5611478.htm)**, led by Prof. Bin Guo, was published by China Machine Press — I contributed to Section 2.3.
+
 - *2026.08*: 🎉🎉 We founded **[Upstra](https://upstra.tech)**, an AI product team dedicated to building innovative AI-powered applications.
 
 - *2026.05*: 🎉🎉 My project, **Dynamic Evolution of Persuasive Strategies Integrating Theory-of-Mind Reasoning and Cognitive World Models**, was funded by the **NWPU Graduate Innovation Fund** as one of only three selected projects in the School of Computer Science.
