@@ -10,11 +10,11 @@ lang: cn
 
 # 📊 About Me
 
-我是[西北工业大学（NWPU）](https://www.nwpu.edu.cn/)计算机科学与技术专业硕士二年级学生，现居中国西安，导师为[郭斌教授](http://guob.org/index_cn.html)。
+我是[**西北工业大学(NWPU)**](https://www.nwpu.edu.cn/)计算机科学与技术专业硕士二年级学生，现居中国西安，导师为[**郭斌教授**](http://guob.org/index_cn.html)。
 
 此前，我于 2025 年在西北工业大学获得计算机科学与技术学士学位。
 
-我的研究方向包括[**社交影响对话系统**](https://www.bilibili.com/video/BV1YAVS6hEaw/?spm_id_from=333.337.search-card.all.click)、**大语言模型（LLMs）**与**世界模型**。我尤其对利用世界模型与强化学习构建通用人工智能感兴趣。
+我的研究方向包括**大语言模型(Large Language Models)**、**强化学习(Reinforcement Learning)**、[**社交影响对话(Social Influence Dialogue)**](https://www.bilibili.com/video/BV1YAVS6hEaw/?spm_id_from=333.337.search-card.all.click)。我尤其对利用世界模型与强化学习构建通用人工智能感兴趣。
 
 <h2 id="news">🔥 新闻</h2>
 
@@ -22,7 +22,7 @@ lang: cn
 
 - *2026.08*: 🎉🎉 我们创立了 **[Upstra](https://upstra.tech)**，一个致力于打造创新 AI 应用的 AI 产品团队。
 
-- *2026.05*: 🎉🎉 我的项目 **「融合心智推理与认知世界模型的劝说策略动态演化」** 获批 **西北工业大学研究生创新基金**，是计算机学院仅有的三个入选项目之一。
+- *2026.05*: 🎉🎉 我的项目 **"融合心智推理与认知世界模型的劝说策略动态演化"** 获批 **"西北工业大学研究生创新基金"**，是计算机学院仅有的三个入选项目之一。
 
 - *2026.01*: 🎉🎉 **[Neuro-Sym Supporter](https://dl.acm.org/doi/abs/10.1145/3774904.3792335)** 被 ACM Web Conference 2026（CCF-A 类会议）录用。
 
