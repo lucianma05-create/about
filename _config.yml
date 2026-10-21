@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "马明晖 (Minghui Ma)"
 description              : "Master Student, Northwestern Polytechnical University"
+description_cn           : "西北工业大学硕士研究生"
 repository               : "https://github.com/lucianma05-create"
 
 # google analytics
@@ -24,6 +25,7 @@ author:
   avatar           : "images/mmh_white_bg.png"
   bio              : # "NWPU"
   location         : "Xi'an, China"
+  location_cn      : "中国西安"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=SCHOLAR_ID&user=EchdyZEAAAAJ"

@@ -1,0 +1,18 @@
+main:
+  - title: "关于我"
+    url: "#about-me"
+
+  - title: "新闻"
+    url: "#news"
+
+  - title: "论文发表"
+    url: "#publications"
+
+  - title: "项目"
+    url: "#projects"
+
+  - title: "教育经历"
+    url: "#educations"
+
+  - title: "联系方式"
+    url: "#contact-me"

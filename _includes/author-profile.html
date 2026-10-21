@@ -16,11 +16,15 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% assign site_desc = site.description %}
+      {% if page.lang == "cn" and site.description_cn %}{% assign site_desc = site.description_cn %}{% endif %}
+      {% if site_desc %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site_desc }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        {% assign author_loc = author.location %}
+        {% if page.lang == "cn" and author.location_cn %}{% assign author_loc = author.location_cn %}{% endif %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author_loc }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
