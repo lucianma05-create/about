@@ -11,9 +11,9 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           {% if page.lang == "cn" %}
-            <li class="masthead__menu-item masthead__lang-item"><a href="/">EN</a></li>
+            <li class="masthead__menu-item masthead__lang-item"><a href="{{ '/' | relative_url }}">EN</a></li>
           {% else %}
-            <li class="masthead__menu-item masthead__lang-item"><a href="/cn/">中文</a></li>
+            <li class="masthead__menu-item masthead__lang-item"><a href="{{ '/cn/' | relative_url }}">中文</a></li>
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>

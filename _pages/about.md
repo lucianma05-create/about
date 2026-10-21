@@ -30,7 +30,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 
 <h2 id="publications">📝 Publications</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SCTPO.png' alt="CSTPO framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='{{ "/images/SCTPO.png" | relative_url }}' alt="CSTPO framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proactive Dialogue Policy Optimization via Cognitive-State Transition](https://arxiv.org/abs/2609.34948)
@@ -39,7 +39,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/CogWM.png' alt="CogWM framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='{{ "/images/CogWM.png" | relative_url }}' alt="CogWM framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](https://arxiv.org/abs/2606.29495)
@@ -48,7 +48,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/TTBYS.png' alt="TTBYS framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='{{ "/images/TTBYS.png" | relative_url }}' alt="TTBYS framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Think Thrice Before You Speak: Dual knowledge-enhanced Theory-of-Mind Reasoning for Persuasive Agents](https://arxiv.org/pdf/2605.22602)
@@ -57,7 +57,7 @@ My research interests include [**Social Influence Dialogue Systems**](https://ww
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/NSS.png' alt="NSS framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='{{ "/images/NSS.png" | relative_url }}' alt="NSS framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](https://dl.acm.org/doi/abs/10.1145/3774904.3792335)

@@ -10,6 +10,8 @@ title                    : "马明晖 (Minghui Ma)"
 description              : "Master Student, Northwestern Polytechnical University"
 description_cn           : "西北工业大学硕士研究生"
 repository               : "https://github.com/lucianma05-create"
+url                      : "https://lucianma05-create.github.io"
+baseurl                  : "/about"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "马明晖 (Minghui Ma)"
-  avatar           : "images/mmh_white_bg.png"
+  avatar           : "/images/mmh_white_bg.png"
   bio              : # "NWPU"
   location         : "Xi'an, China"
   location_cn      : "中国西安"
